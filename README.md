@@ -1,3 +1,3 @@
 # profile
-criacao de site estático sobre **André Rodrigues**
+criação de site estático sobre **André Rodrigues**
 ---
